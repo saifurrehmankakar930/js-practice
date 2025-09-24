@@ -1,9 +1,4 @@
 
-// let num1 = 5
-// let num2 =10
-
-// let sum = num1 + num2
-
 
 console.log('cat' !== 'dog' && 5 > 3 || 12 / 4 === 3 && 9 < 4 || 8 === 8)
     // true && true || true && false || true;
